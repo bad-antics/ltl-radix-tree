@@ -1,0 +1,15 @@
+// ltl-radix-tree/main.ltl
+//
+// Adaptive radix tree — ART-style ordered key index.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-radix-tree v0.1.0")
+    io::println("Adaptive radix tree — ART-style ordered key index.")
+    0
+}
